@@ -1,0 +1,10 @@
+# Exclude build directories and user-specific files
+bin/
+obj/
+*.user
+*.suo
+*.log
+*.vs/
+
+# Sensitive files (manually remove sensitive info if needed)
+appsettings.json
